@@ -5,7 +5,7 @@ import "./App.css";
 // CONSTANTS
 // ===============================
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://study-assistant-api-production.up.railway.app";
 
 // ===============================
 // APP COMPONENT
